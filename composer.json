@@ -1,5 +1,5 @@
 {
-    "name": "stidges/laravel-db-normalizer",
+    "name": "figurosity/laravel-db-normalizer",
     "description": "Normalize all database results to one unified interface, to make swapping repositories a breeze.",
     "version": "0.1.0",
     "homepage": "https://github.com/stidges/laravel-db-normalizer",
